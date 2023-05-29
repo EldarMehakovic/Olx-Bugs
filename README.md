@@ -1,2 +1,4 @@
 # Olx-Bugs
-Bugs on the site Olx.ba
+Bugs found on website "Olx.ba"
+
+Reported bugs are in the Excel file "OlxBugs"
